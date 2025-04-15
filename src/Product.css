@@ -1,0 +1,26 @@
+/* Serial No ": 6"
+Style Component */
+
+.Product {
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 20px;
+  }
+
+
+
+
+
+
+/* Only Amazon Card CSS */
+/* 
+.Product {
+  border: 1px solid black;
+  border-radius: 10px;
+  margin-bottom: 18px; 
+  padding: 0 10px 0 10px;
+  margin-left: 15px;
+  width: 200px;
+  height: 160px;
+} */
+  
